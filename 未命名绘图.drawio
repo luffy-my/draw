@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.8.4">
   <diagram name="第 1 页" id="-fspIqprw4youLXXqIrA">
-    <mxGraphModel>
+    <mxGraphModel dx="1219" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YnU4DgS81yS771I68iCx-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="-800" width="490" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-12" value="登录注册" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="YnU4DgS81yS771I68iCx-43">
+          <mxGeometry x="40" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-13" value="房间预订" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="YnU4DgS81yS771I68iCx-43">
+          <mxGeometry x="140" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-14" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="YnU4DgS81yS771I68iCx-43">
+          <mxGeometry x="240" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-15" value="消息中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="YnU4DgS81yS771I68iCx-43">
+          <mxGeometry x="340" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="Vue.js 3.0 + Element Plus + Vuex + Vue Router + Axios" link="Vue.js 3.0 + Element Plus + Vuex + Vue Router + Axios" id="YnU4DgS81yS771I68iCx-16">
+          <mxCell style="text;whiteSpace=wrap;fontColor=#143642;" vertex="1" parent="YnU4DgS81yS771I68iCx-43">
+            <mxGeometry x="69" y="80" width="330" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="YnU4DgS81yS771I68iCx-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="YnU4DgS81yS771I68iCx-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="110" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="YnU4DgS81yS771I68iCx-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="YnU4DgS81yS771I68iCx-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="120" as="sourcePoint" />
+            <mxPoint y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="YnU4DgS81yS771I68iCx-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="120" as="sourcePoint" />
+            <mxPoint x="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="-650" width="490" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Spring Security&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="YnU4DgS81yS771I68iCx-44">
+          <mxGeometry x="62" y="30" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;JWT Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="YnU4DgS81yS771I68iCx-44">
+          <mxGeometry x="302" y="30" width="150" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="          Spring Boot Controller   " link="Vue.js 3.0 + Element Plus + Vuex + Vue Router + Axios" id="YnU4DgS81yS771I68iCx-27">
+          <mxCell style="text;whiteSpace=wrap;fontColor=#143642;" vertex="1" parent="YnU4DgS81yS771I68iCx-44">
+            <mxGeometry x="144" y="90" width="203" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="YnU4DgS81yS771I68iCx-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="YnU4DgS81yS771I68iCx-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="110" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="YnU4DgS81yS771I68iCx-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="YnU4DgS81yS771I68iCx-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="120" as="sourcePoint" />
+            <mxPoint y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="YnU4DgS81yS771I68iCx-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="120" as="sourcePoint" />
+            <mxPoint x="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnU4DgS81yS771I68iCx-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-650" as="sourcePoint" />
+            <mxPoint x="400" y="-680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
